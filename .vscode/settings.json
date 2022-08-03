@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1bf285f2-ace0-457c-b0b1-7bf0a1e6ff4f/resourceGroups/Company20220731123151ResourceGroup/providers/Microsoft.Web/sites/E-StockMarket",
+    "appService.deploySubpath": "dist\\E-StockMarketAngular"
+}

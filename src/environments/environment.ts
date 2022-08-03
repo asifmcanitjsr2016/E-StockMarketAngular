@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  baseUrl:['http://localhost:9000/api/v1.0/market/company','http://localhost:9000/api/v1.0/market/stock']
+  //baseUrl:['http://localhost:9000/api/v1.0/market/company','http://localhost:9000/api/v1.0/market/stock']
+  baseUrl:['https://e-stockmarketapigateway.azure-api.net/api/v1.0/market/company','https://e-stockmarketapigateway.azure-api.net/api/v1.0/market/stock']
 };
 
 /*
